@@ -1,0 +1,22 @@
+.m-container {
+  width: 7.5rem;
+  height: 100vh;
+  overflow: auto; }
+  .m-container .m-top-title {
+    font-size: 0.38rem;
+    text-align: center;
+    margin-top: 0.5rem; }
+  .m-container .m-content {
+    margin-top: 0.8rem; }
+    .m-container .m-content .m-title {
+      padding: 0 0.15rem;
+      font-size: 0.34rem;
+      margin-bottom: 0.1rem; }
+    .m-container .m-content .m-sub-container .m-sub-title {
+      font-size: 0.3rem;
+      margin-bottom: 0.1rem;
+      padding: 0 0.15rem; }
+    .m-container .m-content .m-sub-container .m-sub-content {
+      font-size: 0.3rem;
+      margin-bottom: 0.1rem;
+      padding: 0 0.15rem; }

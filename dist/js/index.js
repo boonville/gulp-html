@@ -1,0 +1,1 @@
+function flebix(){var e=document.documentElement.clientWidth;document.documentElement.style.fontSize=e/7.5+"px"}flebix(),window.onresize=function(){flebix()};
